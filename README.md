@@ -1,6 +1,6 @@
-# UserRecon v1.0
+# UserRecon v1.1
 # Author: @linux_choice
-# https://github.com/thelinuxchoice/userrecon
+# https://github.com/J0K36/UserRecon
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
